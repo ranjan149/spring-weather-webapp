@@ -1,5 +1,8 @@
 org/example/config/AppConfig.class
+org/example/config/CacheConfig.class
 org/example/service/impl/WeatherServiceImpl.class
+org/example/model/WeatherResponse.class
 org/example/controller/WeatherController.class
 org/example/config/AppInitializer.class
 org/example/service/WeatherService.class
+org/example/config/CacheConfig$1.class

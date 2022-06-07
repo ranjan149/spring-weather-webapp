@@ -1,5 +1,7 @@
 /Users/ranjankhadka/Desktop/spring-weather-webapp/src/main/java/org/example/service/WeatherService.java
 /Users/ranjankhadka/Desktop/spring-weather-webapp/src/main/java/org/example/controller/WeatherController.java
 /Users/ranjankhadka/Desktop/spring-weather-webapp/src/main/java/org/example/config/AppConfig.java
+/Users/ranjankhadka/Desktop/spring-weather-webapp/src/main/java/org/example/config/CacheConfig.java
 /Users/ranjankhadka/Desktop/spring-weather-webapp/src/main/java/org/example/config/AppInitializer.java
+/Users/ranjankhadka/Desktop/spring-weather-webapp/src/main/java/org/example/model/WeatherResponse.java
 /Users/ranjankhadka/Desktop/spring-weather-webapp/src/main/java/org/example/service/impl/WeatherServiceImpl.java
