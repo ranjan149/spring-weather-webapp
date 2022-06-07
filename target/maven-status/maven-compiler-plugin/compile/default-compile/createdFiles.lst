@@ -1,0 +1,5 @@
+org/example/config/AppConfig.class
+org/example/service/impl/WeatherServiceImpl.class
+org/example/controller/WeatherController.class
+org/example/config/AppInitializer.class
+org/example/service/WeatherService.class
